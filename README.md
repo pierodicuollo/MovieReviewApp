@@ -1,12 +1,16 @@
 # movie_rating_app
 
-> A Vue.js project
+> This ia a small MEVN project (Mongo, Express, Vue, Node).
+Be sure to have Node and MongoDB installed on your machine. 
 
 ## Build Setup
 
 ``` bash
 # install dependencies
 npm install
+
+# start node server at localhost:8081
+node server.js
 
 # serve with hot reload at localhost:8080
 npm run dev
